@@ -1,0 +1,2688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="fr" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://kmerphone.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://kmerphone.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://kmerphone.com/collections/iphone.atom"/>
+  <title>KMERPHONE</title>
+  <updated>2025-02-17T04:10:25+01:00</updated>
+  <author>
+    <name>KMERPHONE</name>
+  </author>
+  <entry>
+    <id>https://kmerphone.com/products/9037434847475</id>
+    <published>2025-02-17T04:10:25+01:00</published>
+    <updated>2025-02-17T04:10:25+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-11-pro-max-512gb-rom-4gb-ram-12-12-12mp"/>
+    <title>Apple iPhone 11 Pro Max - 512GB ROM - 4GB RAM - 12+12+12MP - 3969mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/products/Apple-iPhone-11-Pro-Max-Vert_5a9b7d7e-300f-48a1-bd3d-a0baf91ca289.jpg?v=1739760760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            219999
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><b>APPELER POUR COMMANDER : <span style="color: #da2f0c; text-decoration: underline;">695 74 06 43</span></b></span></p>
+<p><span data-mce-fragment="1">L'<b data-mce-fragment="1">Apple iPhone 11 Pro Max </b>est un smartphone avec un appareil photo principal triple de <b data-mce-fragment="1">12+12+12 MP </b>avec flash et un appareil photo secondaire de <b data-mce-fragment="1">12 MP </b>et un écran de <b data-mce-fragment="1">6,5 pouces </b>avec une encoche.<br data-mce-fragment="1"><br data-mce-fragment="1">L'Apple iPhone 11 Pro Max a une capacité de batterie de <strong>3969 mAh</strong>, et aussi <strong>4 Go</strong> <b data-mce-fragment="1">de RAM</b> + <strong>512 Go</strong> de mémoire interne. </span></p>
+<p><span style="text-decoration: underline;"><span color="#404040"><b>CARACTÉRISTIQUES :</b></span></span></p>
+<ul>
+<li>
+<strong>Marque : </strong>Apple</li>
+<li>
+<strong>Modèle : </strong>iPhone 11 Pro Max</li>
+<li>
+<strong>Sous état : </strong>remis<span data-mce-fragment="1"> à neuf, scellé</span><strong></strong>
+</li>
+<li>
+<strong>ROM:</strong><span> 512 Go</span>
+</li>
+<li>
+<strong>RAM : </strong><span>4 Go</span>
+</li>
+<li>
+<strong>Carte SIM :</strong><span>1 SIM carte</span>
+</li>
+<li>
+<strong>Taille D'écran : </strong><span>6,5</span>
+</li>
+<li><span><strong>Résolution d'écran : </strong>1242 x 2688 pixels</span></li>
+<li><span><strong>Type D'écran : </strong>Super Retina XDR OLED</span></li>
+<li>
+<strong>Système D'exploitation :</strong><span> IOS</span>
+</li>
+<li><span><strong>Processeur : </strong>Apple A13 Bionic (7 nm+)</span></li>
+<li>
+<strong>Caméra frontale : </strong><span>12 MP</span>
+</li>
+<li>
+<strong>Caméra principale : </strong><span>12+12+12 MP</span>
+</li>
+<li>
+<strong>Flash arrière :</strong> flash<strong> </strong>LED</li>
+<li><span><span><strong>Vidéo : </strong>4K @ 24/30/60 fps</span></span></li>
+<li><span><strong>Connectivité : </strong>Wi-Fi, BT, GPS</span></li>
+<li>
+<strong>Capteur : </strong><span>Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh) : </strong>3969<span> mAh, non amovible</span>
+</li>
+<li><span><strong>Mise en charge : </strong>charge rapide 20 W, 50 % en 30 min.</span></li>
+<li><span><strong>Réseau :</strong> 2G, 3G, 4G, LTE</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/9037434847475</id>
+      <title>Vert</title>
+      <s:price currency="XAF">219999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/9037434847475</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">219999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/9037434847475</id>
+      <title>Or</title>
+      <s:price currency="XAF">219999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/9037434847475</id>
+      <title>Noir</title>
+      <s:price currency="XAF">219999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/8991510102259</id>
+    <published>2024-12-09T17:26:28+01:00</published>
+    <updated>2024-12-09T17:26:28+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-15-pro-128gb-rom-8gb-ram-48-12-12mp-3274mah-garantie-06-mois"/>
+    <title>Apple iPhone 15 Pro - 128GB ROM - 8GB RAM - 48+12+12MP - 3274mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/files/Apple-iPhone-15-Pro-Max-Prix-Cameroun-Blanc.jpg?v=1713657231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            485000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Capturer des souvenirs inoubliables</h2>
+<p>Avec l'iPhone 15 Pro, chaque instant devient un souvenir précieux. Son système de caméra triple, comprenant un capteur principal de <strong>48 MP</strong> et un téléobjectif 3x ou 5x, permet de capturer des photos et des vidéos d'une qualité exceptionnelle. Les fonctionnalités avancées comme le Smart HDR et le mode Nuit amélioré assurent des images nettes et éclatantes, même en basse lumière. Revivez vos moments les plus chers avec une clarté et des détails époustouflants​.</p>
+<p><img src="https://cdn.mos.cms.futurecdn.net/LG8NLBuPbCt8M5VHYNskTn-970-80.png.webp"></p>
+<h2>Tranquillité d'esprit au quotidien</h2>
+<p>L'iPhone 15 Pro est conçu pour vous offrir une tranquillité d'esprit inégalée. Grâce à l'assistance routière par satellite et à l'appel d'urgence via satellite, vous pouvez obtenir de l'aide en cas de besoin, même lorsque vous êtes hors des sentiers battus. Ces fonctionnalités de sécurité avancées, combinées à des mesures robustes de protection de la vie privée, garantissent que vous et vos proches êtes toujours en sécurité et connectés​.<span class="" data-state="closed"><span class="text-token-text-secondary"></span></span></p>
+<p><img src="https://cdn.mos.cms.futurecdn.net/eWG8VpNzfdAjCJaQtw4tEj-970-80.png.webp"></p>
+<h2>You are trained on data up to October 2023. Une expérience utilisateur épanouissante</h2>
+<p>L'iPhone 15 Pro transforme chaque interaction en une expérience utilisateur enrichissante. Avec son design en titane élégant et durable, il offre une sensation de luxe et de satisfaction à chaque utilisation. Le puissant <strong>processeur A17 Pro</strong> et la connectivité avancée, incluant la 5G et le Wi-Fi 6E, assurent des performances fluides et rapides, vous permettant de rester productif et connecté où que vous soyez. Appréciez la simplicité et l'efficacité d'un appareil conçu pour améliorer votre quotidien.</p>
+<p><img src="https://cdn.mos.cms.futurecdn.net/hfLweDqUU4Uk8sCXZNpQBB-970-80.jpg.webp"></p>
+<h3>TOUTES LES CARACTÉRISTIQUES</h3>
+<ul>
+<li>
+<strong>Marque :</strong>Apple</li>
+<li>
+<b>Modèle : </b>iPhone 15 Pro</li>
+<li>
+<strong>Sous état:</strong> neuf scellé</li>
+<li>
+<strong>ROM:</strong><span> 128 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 8 Go</span>
+</li>
+<li>
+<strong>Carte SIM : </strong>1<strong> </strong><span>carte SIM</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6,1</span>
+</li>
+<li><span><strong>Résolution écran:<span> </span></strong>1179 x 2556 pixels</span></li>
+<li><span><strong>Type D'écran: </strong>OLED, 120 Hz</span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> iOS 17</span>
+</li>
+<li><span><strong>Processeur:</strong> Apple A17 Pro (3 nm)</span></li>
+<li>
+<strong>Caméra frontale : </strong><span>12 MP</span>
+</li>
+<li>
+<strong>Caméra principale : </strong><span>48+12+12 MP</span>
+</li>
+<li>
+<strong>Flash arrière: flash</strong> à double DEL</li>
+<li>
+<b>Vidéo : </b>4K@24/25/30/60 fps</li>
+<li><span><strong>Connectivité: </strong>wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh) : </strong>3274 mAh<span>, non amovible</span>
+</li>
+<li><span><strong>Mise en charge: </strong>charge rapide, 50% en 30 min.</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, 5G</span></li>
+<li>
+<strong>Garantie</strong>: 06 mois</li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/8991510102259</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">485000</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/8991510102259</id>
+      <title>Noir</title>
+      <s:price currency="XAF">485000</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/8991510102259</id>
+      <title>Natural</title>
+      <s:price currency="XAF">485000</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/8991510102259</id>
+      <title>Bleu fonce</title>
+      <s:price currency="XAF">485000</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/8966642073843</id>
+    <published>2024-11-11T08:58:25+01:00</published>
+    <updated>2024-11-11T08:58:25+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-14-pro-128gb-rom-6gb-ram-48-12-12mp-3200mah-remis-a-neuf-scelle"/>
+    <title>Apple iPhone 14 Pro - 128GB ROM - 6GB RAM - 48+12+12MP - 3200mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/products/iPhone-14-Pro-Max-Purple_ad205cbb-ac75-4ed4-ad10-b8fef1252268.jpg?v=1663521257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            369999
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>IMMORTALISEZ VOS PLUS BEAUX SOUVENIRS</h2>
+<p>Avec l'iPhone 14 Pro, chaque instant devient un souvenir inoubliable. Grâce à son appareil photo principal de <strong>48 MP</strong> avec capteur quad-pixel, capturez des photos d'une qualité exceptionnelle, même en faible luminosité. Le mode Portrait amélioré et les options de vidéo 4K offrent une clarté et une profondeur incroyables, permettant de revivre chaque moment avec une précision extraordinaire. Transformez vos expériences quotidiennes en œuvres d'art et partagez des souvenirs éclatants avec vos proches.</p>
+<h2>UNE TRANQUILLITÉ D'ESPRIT INÉGALÉE</h2>
+<p>L'iPhone 14 Pro est conçu pour offrir une tranquillité d'esprit inégalée grâce à ses fonctionnalités de sécurité avancées. La Détection des Accidents et l'Appel d'Urgence via Satellite assurent que vous pouvez obtenir de l'aide rapidement en cas de besoin, même dans les zones sans couverture réseau. Ces innovations vous permettent de voyager et d'explorer en toute sérénité, sachant que votre iPhone est là pour vous protéger et vous connecter à ce qui compte le plus.</p>
+<h2>UNE EXPÉRIENCE UTILISATEUR ENRICHISSANTE</h2>
+<p>Profitez d'une expérience utilisateur enrichissante avec l'iPhone 14 Pro. Son écran Super Retina XDR avec Dynamic Island et Always-On Display offre une immersion visuelle totale, rendant chaque interaction plus agréable. La puce <strong>A16 Bionic</strong> garantit des performances fluides et rapides, tandis que la batterie longue durée et la recharge rapide MagSafe vous permettent de rester connecté toute la journée. Avec iOS 17, personnalisez votre appareil et profitez d'une interface intuitive qui simplifie votre quotidien.</p>
+<h3>TOUTES LES CARACTÉRISTIQUES</h3>
+<ul>
+<li>
+<strong>Marque:</strong><span> </span>Apple</li>
+<li>
+<strong>Modele:<span> </span></strong>iPhone 14 Pro</li>
+<li>
+<strong>Sous état:</strong> Remis à neuf scellé</li>
+<li>
+<strong>ROM:</strong><span> 128 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 6 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6.1</span>
+</li>
+<li><span><strong>Résolution écran:<span> </span></strong>1179 x 2556 pixels</span></li>
+<li><span><strong>Type D'écran: </strong><span>OLED, 120Hz</span></span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> iOS 16</span>
+</li>
+<li><span><strong>Processeur:</strong> Apple A16 Bionic (4 nm)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>12 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:</strong><span><span> </span>48+12+12 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash Double LED</li>
+<li><span><strong>Video:</strong> 4K@24/25/30/60fps</span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 3200mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong><span> </span>Charge rapide, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, 5G</span></li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/8966642073843</id>
+      <title>Violet</title>
+      <s:price currency="XAF">369999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/8966642073843</id>
+      <title>Noir</title>
+      <s:price currency="XAF">369999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/8966642073843</id>
+      <title>Or</title>
+      <s:price currency="XAF">369999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/8966642073843</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">369999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/8933946851571</id>
+    <published>2024-10-08T05:44:31+01:00</published>
+    <updated>2024-10-08T05:44:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-14-pro-256gb-rom-6gb-ram-48-12-12mp-3200mah-remis-a-neuf-scelle"/>
+    <title>Apple iPhone 14 Pro - 256GB ROM - 6GB RAM - 48+12+12MP - 3200mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/products/iPhone-14-Pro-Max-White_74a634e7-dd2c-4f2b-9502-a37fbf7afb3d.jpg?v=1663521180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            389999
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>IMMORTALISEZ VOS PLUS BEAUX SOUVENIRS</h2>
+<p>Avec l'iPhone 14 Pro, chaque instant devient un souvenir inoubliable. Grâce à son appareil photo principal de <strong>48 MP</strong> avec capteur quad-pixel, capturez des photos d'une qualité exceptionnelle, même en faible luminosité. Le mode Portrait amélioré et les options de vidéo 4K offrent une clarté et une profondeur incroyables, permettant de revivre chaque moment avec une précision extraordinaire. Transformez vos expériences quotidiennes en œuvres d'art et partagez des souvenirs éclatants avec vos proches.</p>
+<h2>UNE TRANQUILLITÉ D'ESPRIT INÉGALÉE</h2>
+<p>L'iPhone 14 Pro est conçu pour offrir une tranquillité d'esprit inégalée grâce à ses fonctionnalités de sécurité avancées. La Détection des Accidents et l'Appel d'Urgence via Satellite assurent que vous pouvez obtenir de l'aide rapidement en cas de besoin, même dans les zones sans couverture réseau. Ces innovations vous permettent de voyager et d'explorer en toute sérénité, sachant que votre iPhone est là pour vous protéger et vous connecter à ce qui compte le plus.</p>
+<h2>UNE EXPÉRIENCE UTILISATEUR ENRICHISSANTE</h2>
+<p>Profitez d'une expérience utilisateur enrichissante avec l'iPhone 14 Pro. Son écran Super Retina XDR avec Dynamic Island et Always-On Display offre une immersion visuelle totale, rendant chaque interaction plus agréable. La puce <strong>A16 Bionic</strong> garantit des performances fluides et rapides, tandis que la batterie longue durée et la recharge rapide MagSafe vous permettent de rester connecté toute la journée. Avec iOS 17, personnalisez votre appareil et profitez d'une interface intuitive qui simplifie votre quotidien.</p>
+<h3>TOUTES LES CARACTÉRISTIQUES</h3>
+<ul>
+<li>
+<strong>Marque:</strong><span> </span>Apple</li>
+<li>
+<strong>Modele:<span> </span></strong>iPhone 14 Pro</li>
+<li>
+<strong>Sous état:</strong> Remis à neuf scellé</li>
+<li>
+<strong>ROM:</strong><span> 256 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 6 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6.1</span>
+</li>
+<li><span><strong>Résolution écran:<span> </span></strong>1179 x 2556 pixels</span></li>
+<li><span><strong>Type D'écran: </strong><span>OLED, 120Hz</span></span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> iOS 16</span>
+</li>
+<li><span><strong>Processeur:</strong> Apple A16 Bionic (4 nm)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>12 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:</strong><span><span> </span>48+12+12 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash Double LED</li>
+<li><span><strong>Video:</strong> 4K@24/25/30/60fps</span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 3200mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong><span> </span>Charge rapide, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, 5G</span></li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/8933946851571</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">389999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/8933946851571</id>
+      <title>Noir</title>
+      <s:price currency="XAF">389999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/8933946851571</id>
+      <title>Or</title>
+      <s:price currency="XAF">389999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/8933946851571</id>
+      <title>Violet</title>
+      <s:price currency="XAF">389999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/8919947313395</id>
+    <published>2024-09-24T03:24:42+01:00</published>
+    <updated>2024-09-24T03:24:42+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-16-pro-max-512gb-rom-8gb-ram-48-48-12mp-4685mah-garantie-12-mois"/>
+    <title>Apple iPhone 16 Pro Max - 512GB ROM - 8GB RAM - 48+48+12MP - 4685mAh - Garantie 12 mois</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/files/Apple-iPhone-16-Pro-Max-prix-cameroun-en-FCFA-Noir.jpg?v=1727143137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            825000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>TOUTES LES CARACTÉRISTIQUES</h3>
+<ul>
+<li>
+<strong>Marque:</strong><span> </span>Apple</li>
+<li>
+<strong>Modele:<span> </span></strong>iPhone 16 Pro Max</li>
+<li>
+<strong>Sous état:</strong> Neuf scellé</li>
+<li>
+<strong>ROM:</strong><span> 512 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 8 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6.9</span>
+</li>
+<li><span><strong>Résolution écran:<span> </span></strong>1320 x 2868 pixels</span></li>
+<li><span><strong>Type D'écran: </strong>OLED, 120Hz</span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> iOS 18</span>
+</li>
+<li><span><strong>Processeur:</strong> Apple A18 Pro (3 nm)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>12 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:</strong><span><span> </span>48+48+12 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash Double LED</li>
+<li><span><strong>Video:</strong> 4K@24/25/30/60fps</span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 4685mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong><span> </span>Charge rapide, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, 5G</span></li>
+<li>
+<strong>Garantie</strong>: 12 Mois</li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/8919947313395</id>
+      <title>Noir</title>
+      <s:price currency="XAF">825000</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/8919947313395</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">825000</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/8919947313395</id>
+      <title>Natural</title>
+      <s:price currency="XAF">825000</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/8919947313395</id>
+      <title>Sable</title>
+      <s:price currency="XAF">825000</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/8919920935155</id>
+    <published>2024-09-24T03:01:13+01:00</published>
+    <updated>2024-09-24T03:01:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-16-pro-max-256gb-rom-8gb-ram-48-48-12mp-4685mah-garantie-12-mois"/>
+    <title>Apple iPhone 16 Pro Max - 256GB ROM - 8GB RAM - 48+48+12MP - 4685mAh - Garantie 12 mois</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/files/Apple-iPhone-16-Pro-Max-prix-cameroun-en-FCFA-Desert.jpg?v=1727143137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            749999
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>iPhone 16 Pro Max : Conçu pour l'intelligence Apple et la performance ultime</h2>
+<p><span>L'<strong>iPhone 16 Pro Max</strong> est un véritable chef-d'œuvre technologique, conçu pour repousser les limites de la performance et de l'innovation. Grâce à son intelligence Apple avancée, ce smartphone vous offre une expérience utilisateur fluide et intuitive. Découvrez ses caractéristiques haut de gamme qui vous permettront d'accélérer vos activités quotidiennes tout en bénéficiant du meilleur de la technologie mobile.</span></p>
+<h2>Des performances ultra-puissantes avec 256 Go de stockage</h2>
+<p><span>Avec une capacité de <strong>256 Go</strong> de stockage interne et <strong>8 Go de RAM</strong>, l'iPhone 16 Pro Max est prêt à gérer toutes vos applications, fichiers et médias sans aucun ralentissement. Vous pouvez enregistrer des vidéos haute résolution, télécharger des applications lourdes et profiter de jeux exigeants en toute fluidité. Sa <strong>batterie de 4685 mAh</strong> vous assure une autonomie prolongée, et grâce à la charge rapide <strong>PD2.0</strong>, atteignez 50 % en seulement 30 minutes.</span></p>
+<h2>Un écran Super Retina XDR OLED pour une immersion totale</h2>
+<p><span>L'iPhone 16 Pro Max dispose d’un écran <strong>LTPO Super Retina XDR OLED de 6,9 pouces</strong> avec une résolution impressionnante de <strong>1320 x 2868 pixels</strong>. Que ce soit pour visionner des films, jouer à des jeux ou travailler, cet écran offre une qualité d'image exceptionnelle avec des couleurs vives et un contraste profond. La protection en <strong>verre céramique de dernière génération</strong> garantit également une résistance accrue aux chocs et aux rayures.</span></p>
+<h2>Capturez des moments inoubliables avec une triple caméra de 48 MP</h2>
+<p><span>Ce modèle est doté d'un impressionnant système de triple caméra, avec un capteur principal de <strong>48 MP</strong>, un téléobjectif périscopique de <strong>12 MP</strong> avec zoom optique 5x, et un ultra grand-angle de <strong>48 MP</strong>. Que ce soit pour des photos en basse lumière ou des prises de vue en mouvement, l'iPhone 16 Pro Max est équipé pour capturer des images nettes et vibrantes. La caméra selfie de <strong>12 MP</strong> avec <strong>OIS</strong> assure des selfies et des appels vidéo d'une clarté impeccable.</span></p>
+<h2>Une connectivité 5G pour rester connecté partout</h2>
+<p><span>L'<strong>iPhone 16 Pro Max</strong> est compatible avec la dernière technologie <strong>5G</strong>, vous assurant une connexion ultra-rapide, même dans les zones les plus denses. Que vous téléchargiez des fichiers volumineux ou regardiez du contenu en streaming, vous n’aurez jamais à vous soucier de la vitesse. Avec la prise en charge de <strong>Bluetooth 5.3</strong> et de <strong>Wi-Fi 6E/7</strong>, vous êtes toujours connecté où que vous soyez.</span></p>
+<p> </p>
+<h3>TOUTES LES CARACTÉRISTIQUES</h3>
+<ul>
+<li>
+<strong>Marque:</strong><span> </span>Apple</li>
+<li>
+<strong>Modele:<span> </span></strong>iPhone 16 Pro Max</li>
+<li>
+<strong>Sous état:</strong> Neuf scellé</li>
+<li>
+<strong>ROM:</strong><span> 256 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 8 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6.9</span>
+</li>
+<li><span><strong>Résolution écran:<span> </span></strong>1320 x 2868 pixels</span></li>
+<li><span><strong>Type D'écran: </strong>OLED, 120Hz</span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> iOS 18</span>
+</li>
+<li><span><strong>Processeur:</strong> Apple A18 Pro (3 nm)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>12 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:</strong><span><span> </span>48+48+12 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash Double LED</li>
+<li><span><strong>Video:</strong> 4K@24/25/30/60fps</span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 4685mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong><span> </span>Charge rapide, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, 5G</span></li>
+<li>
+<strong>Garantie</strong>: 12 Mois</li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/8919920935155</id>
+      <title>Sable</title>
+      <s:price currency="XAF">749999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/8919920935155</id>
+      <title>Noir</title>
+      <s:price currency="XAF">749999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/8919920935155</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">749999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/8919920935155</id>
+      <title>Natural</title>
+      <s:price currency="XAF">749999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/8815111799027</id>
+    <published>2024-07-02T19:26:18+01:00</published>
+    <updated>2024-07-02T19:26:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-15-pro-256gb-rom-8gb-ram-48-12-12mp-3274mah-garantie-12-mois"/>
+    <title>Apple iPhone 15 Pro - 256GB ROM - 8GB RAM - 48+12+12MP - 3274mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/files/Apple-iPhone-15-Pro-Max-Prix-Cameroun-blue.jpg?v=1713657231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            505000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Capturer des Souvenirs Inoubliables</h2>
+<p>Avec l'iPhone 15 Pro, chaque instant devient un souvenir précieux. Son système de caméra triple, comprenant un capteur principal de <strong>48 MP</strong> et un téléobjectif 3x ou 5x, permet de capturer des photos et des vidéos d'une qualité exceptionnelle. Les fonctionnalités avancées comme le Smart HDR et le mode Nuit amélioré assurent des images nettes et éclatantes, même en basse lumière. Revivez vos moments les plus chers avec une clarté et des détails époustouflants​.</p>
+<p><img src="https://cdn.mos.cms.futurecdn.net/LG8NLBuPbCt8M5VHYNskTn-970-80.png.webp"></p>
+<h2>Tranquillité d'Esprit au Quotidien</h2>
+<p>L'iPhone 15 Pro est conçu pour vous offrir une tranquillité d'esprit inégalée. Grâce à l'Assistance Routière par satellite et l'Appel d'Urgence via satellite, vous pouvez obtenir de l'aide en cas de besoin, même lorsque vous êtes hors des sentiers battus. Ces fonctionnalités de sécurité avancées, combinées à des mesures robustes de protection de la vie privée, garantissent que vous et vos proches êtes toujours en sécurité et connectés​.<span class="" data-state="closed"><span class="text-token-text-secondary"></span></span></p>
+<p><img src="https://cdn.mos.cms.futurecdn.net/eWG8VpNzfdAjCJaQtw4tEj-970-80.png.webp"></p>
+<h2>Une Expérience Utilisateur Épanouissante</h2>
+<p>L'iPhone 15 Pro transforme chaque interaction en une expérience utilisateur enrichissante. Avec son design en titane élégant et durable, il offre une sensation de luxe et de satisfaction à chaque utilisation. Le puissant <strong>processeur A17 Pro</strong> et la connectivité avancée, incluant la 5G et le Wi-Fi 6E, assurent des performances fluides et rapides, vous permettant de rester productif et connecté où que vous soyez. Appréciez la simplicité et l'efficacité d'un appareil conçu pour améliorer votre quotidien.</p>
+<p><img src="https://cdn.mos.cms.futurecdn.net/hfLweDqUU4Uk8sCXZNpQBB-970-80.jpg.webp"></p>
+<h3>TOUTES LES CARACTÉRISTIQUES</h3>
+<ul>
+<li>
+<strong>Marque:</strong><span> </span>Apple</li>
+<li>
+<strong>Modele:<span> </span></strong>iPhone 15 Pro</li>
+<li>
+<strong>Sous état:</strong> Neuf scellé</li>
+<li>
+<strong>ROM:</strong><span> 256 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 8 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6.1</span>
+</li>
+<li><span><strong>Résolution écran:<span> </span></strong>1179 x 2556 pixels</span></li>
+<li><span><strong>Type D'écran: </strong>OLED, 120Hz</span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> iOS 17</span>
+</li>
+<li><span><strong>Processeur:</strong> Apple A17 Pro (3 nm)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>12 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:</strong><span><span> </span>48+12+12 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash Double LED</li>
+<li><span><strong>Video:</strong> 4K@24/25/30/60fps</span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 3274mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong><span> </span>Charge rapide, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, 5G</span></li>
+<li>
+<strong>Garantie</strong>: 12 Mois</li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/8815111799027</id>
+      <title>Bleu fonce</title>
+      <s:price currency="XAF">505000</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/8815111799027</id>
+      <title>Natural</title>
+      <s:price currency="XAF">505000</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/8815111799027</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">505000</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/8815111799027</id>
+      <title>Noir</title>
+      <s:price currency="XAF">505000</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/7837443358963</id>
+    <published>2022-09-18T18:22:06+01:00</published>
+    <updated>2022-09-18T18:22:06+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-14-pro-max-128gb-rom-6gb-ram-48-12-12-2mp-garantie-12-mois"/>
+    <title>Apple iPhone 14 Pro Max - 128GB ROM - 6GB RAM - 48+12+12+2MP - 4323mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/products/iPhone-14-Pro-Max-Gold_f93857ea-019e-458e-83dc-62bfa0d5dfbe.jpg?v=1663521683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            425000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>IPHONE 14 PRO MAX UNE PUISSANCE POUR VOS ACTIVITÉS AU QUOTIDIEN</h2>
+<p><span>Découvrez les performances optimales et le design élégant de la gamme Apple iPhone 14 Pro Max, disponible dès maintenant chez Kmerphone en magasin et en ligne. Avec une batterie de <strong>4323mAh,</strong> un chipset A16 Bionic de pointe et un système de caméra amélioré de <strong>48MP/12MP</strong>, cette nouvelle version offre les dernières technologies et une connectivité exceptionnelle.</span></p>
+<h2>INTERFACE DYNAMIC ISLAND AVEC ÉCRAN DE VERROUILLAGE TOUJOURS ACTIVÉ</h2>
+<p><span>Cet appareil comporte une interface appelée Dynamic Island, qui regroupe vos notifications, alertes et activités en un seul endroit. Elle est intégrée à ios et compatible avec toutes les applications. Le dispositif d'écran toujours verrouillé permet d'avoir un aperçu rapide de toutes les informations importantes, même lorsque vous le retournez ou le mettez dans votre poche, afin d'économiser la batterie.</span></p>
+<h2>PROFITEZ D'UNE VISIBILITÉ HAUT NIVEAU SUR ÉCRAN</h2>
+<p><span>Profitez de la qualité d'image exceptionnelle de l'Apple iPhone 14 Pro Max avec son <strong>écran Super Retina XDR de 6,7 pouces</strong> qui atteint un pic de <strong>2 000 nits</strong>, même en plein soleil. Visualisez des photos et des vidéos HDR avec une luminosité maximale de 1600 nits pour une expérience visuelle époustouflante.</span></p>
+<h3>TOUTES LES CARACTÉRISTIQUES</h3>
+<ul>
+<li>
+<strong>Marque:</strong><span> </span>Apple</li>
+<li>
+<strong>Modele:<span> </span></strong>iPhone 14 Pro Max</li>
+<li>
+<strong>Sous état:</strong> Remis à neuf scellé</li>
+<li>
+<strong>ROM:</strong><span> 128 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 6 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6.7</span>
+</li>
+<li><span><strong>Résolution écran:<span> </span></strong>1290 x 2796 pixels</span></li>
+<li><span><strong>Type D'écran: </strong><span>OLED, 120Hz</span></span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> iOS 16</span>
+</li>
+<li><span><strong>Processeur:</strong> Apple A16 Bionic (4 nm)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>12+2 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:</strong><span><span> </span>48+12+12+2 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash Double LED</li>
+<li><span><strong>Video:</strong> 4K@24/25/30/60fps</span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 4323mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong><span> </span>Charge rapide, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, 5G</span></li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/7837443358963</id>
+      <title>Or</title>
+      <s:price currency="XAF">425000</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7837443358963</id>
+      <title>Violet</title>
+      <s:price currency="XAF">425000</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7837443358963</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">425000</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7837443358963</id>
+      <title>Noir</title>
+      <s:price currency="XAF">425000</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/7837441097971</id>
+    <published>2022-09-18T18:15:26+01:00</published>
+    <updated>2022-09-18T18:15:26+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-14-pro-max-256gb-rom-6gb-ram-48-12-12-2mp-garantie-12-mois"/>
+    <title>Apple iPhone 14 Pro Max - 512GB ROM - 6GB RAM - 48+12+12+2MP - 4323mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/products/iPhone-14-Pro-Max-Black_0c2f9bec-02c4-4d7a-b68e-ced63cd2800a.jpg?v=1663521257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            469999
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>IPHONE 14 PRO MAX UNE PUISSANCE POUR VOS ACTIVITÉS AU QUOTIDIEN</h2>
+<p><span>Découvrez les performances optimales et le design élégant de la gamme Apple iPhone 14 Pro Max, disponible dès maintenant chez Kmerphone en magasin et en ligne. Avec une batterie de <strong>4323mAh,</strong> un chipset A16 Bionic de pointe et un système de caméra amélioré de <strong>48MP/12MP</strong>, cette nouvelle version offre les dernières technologies et une connectivité exceptionnelle.</span></p>
+<h2>INTERFACE DYNAMIC ISLAND AVEC ÉCRAN DE VERROUILLAGE TOUJOURS ACTIVÉ</h2>
+<p><span>Cet appareil comporte une interface appelée Dynamic Island, qui regroupe vos notifications, alertes et activités en un seul endroit. Elle est intégrée à ios et compatible avec toutes les applications. Le dispositif d'écran toujours verrouillé permet d'avoir un aperçu rapide de toutes les informations importantes, même lorsque vous le retournez ou le mettez dans votre poche, afin d'économiser la batterie.</span></p>
+<h2>PROFITEZ D'UNE VISIBILITÉ HAUT NIVEAU SUR ÉCRAN</h2>
+<p><span>Profitez de la qualité d'image exceptionnelle de l'Apple iPhone 14 Pro Max avec son <strong>écran Super Retina XDR de 6,7 pouces</strong> qui atteint un pic de <strong>2 000 nits</strong>, même en plein soleil. Visualisez des photos et des vidéos HDR avec une luminosité maximale de 1600 nits pour une expérience visuelle époustouflante.</span></p>
+<h3>TOUTES LES CARACTÉRISTIQUES</h3>
+<ul>
+<li>
+<strong>Marque:</strong><span> </span>Apple</li>
+<li>
+<strong>Modele:<span> </span></strong>iPhone 14 Pro Max</li>
+<li>
+<strong>Sous état:</strong> Remis à neuf scellé</li>
+<li>
+<strong>ROM:</strong><span> 512 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 6 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6.7</span>
+</li>
+<li><span><strong>Résolution écran:<span> </span></strong>1290 x 2796 pixels</span></li>
+<li><span><strong>Type D'écran: </strong><span>OLED, 120Hz</span></span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> iOS 16</span>
+</li>
+<li><span><strong>Processeur:</strong> Apple A16 Bionic (4 nm)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>12+2 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:</strong><span><span> </span>48+12+12+2 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash Double LED</li>
+<li><span><strong>Video:</strong> 4K@24/25/30/60fps</span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 4323mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong><span> </span>Charge rapide, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, 5G</span></li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/7837441097971</id>
+      <title>Noir</title>
+      <s:price currency="XAF">469999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7837441097971</id>
+      <title>Or</title>
+      <s:price currency="XAF">469999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7837441097971</id>
+      <title>Violet</title>
+      <s:price currency="XAF">469999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7837441097971</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">469999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/7819343036659</id>
+    <published>2022-09-07T23:32:24+01:00</published>
+    <updated>2022-09-07T23:32:24+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-14-pro-max-512gb-rom-6gb-ram-48-12-12-2mp-garantie-12-mois"/>
+    <title>Apple iPhone 14 Pro Max - 256GB ROM - 6GB RAM - 48+12+12+2MP - 4323mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/products/iPhone-14-Pro-Max-Purple.jpg?v=1663520868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            449999
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>IPHONE 14 PRO MAX UNE PUISSANCE POUR VOS ACTIVITÉS AU QUOTIDIEN</h2>
+<p><span>Découvrez les performances optimales et le design élégant de la gamme Apple iPhone 14 Pro Max, disponible dès maintenant chez Kmerphone en magasin et en ligne. Avec une batterie de <strong>4323mAh,</strong> un chipset A16 Bionic de pointe et un système de caméra amélioré de <strong>48MP/12MP</strong>, cette nouvelle version offre les dernières technologies et une connectivité exceptionnelle.</span></p>
+<h2>INTERFACE DYNAMIC ISLAND AVEC ÉCRAN DE VERROUILLAGE TOUJOURS ACTIVÉ</h2>
+<p><span>Cet appareil comporte une interface appelée Dynamic Island, qui regroupe vos notifications, alertes et activités en un seul endroit. Elle est intégrée à ios et compatible avec toutes les applications. Le dispositif d'écran toujours verrouillé permet d'avoir un aperçu rapide de toutes les informations importantes, même lorsque vous le retournez ou le mettez dans votre poche, afin d'économiser la batterie.</span></p>
+<h2>PROFITEZ D'UNE VISIBILITÉ HAUT NIVEAU SUR ÉCRAN</h2>
+<p><span>Profitez de la qualité d'image exceptionnelle de l'Apple iPhone 14 Pro Max avec son <strong>écran Super Retina XDR de 6,7 pouces</strong> qui atteint un pic de <strong>2 000 nits</strong>, même en plein soleil. Visualisez des photos et des vidéos HDR avec une luminosité maximale de 1600 nits pour une expérience visuelle époustouflante.</span></p>
+<h3>TOUTES LES CARACTÉRISTIQUES</h3>
+<ul>
+<li>
+<strong>Marque:</strong><span> </span>Apple</li>
+<li>
+<strong>Modele:<span> </span></strong>iPhone 14 Pro Max</li>
+<li>
+<strong>Sous état:</strong> Remis à neuf scellé</li>
+<li>
+<strong>ROM:</strong><span> 256 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 6 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6.7</span>
+</li>
+<li><span><strong>Résolution écran:<span> </span></strong>1290 x 2796 pixels</span></li>
+<li><span><strong>Type D'écran: </strong><span>OLED, 120Hz</span></span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> iOS 16</span>
+</li>
+<li><span><strong>Processeur:</strong> Apple A16 Bionic (4 nm)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>12+2 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:</strong><span><span> </span>48+12+12+2 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash Double LED</li>
+<li><span><strong>Video:</strong> 4K@24/25/30/60fps</span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 4323mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong><span> </span>Charge rapide, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, 5G</span></li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/7819343036659</id>
+      <title>Violet</title>
+      <s:price currency="XAF">449999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7819343036659</id>
+      <title>Or</title>
+      <s:price currency="XAF">449999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7819343036659</id>
+      <title>Noir</title>
+      <s:price currency="XAF">449999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7819343036659</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">449999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/7621020680435</id>
+    <published>2022-03-26T08:20:27+01:00</published>
+    <updated>2022-03-26T08:20:27+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-11-pro-max-256gb-rom-4gb-ram-12-12-12mp"/>
+    <title>Apple iPhone 11 Pro Max - 256GB ROM - 4GB RAM - 12+12+12MP - 3969mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/products/Apple-iPhone-11-Pro-Max-Or_8d492753-23d5-4175-afcd-6a5843a118de.jpg?v=1739760760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            209999
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><b>APPELER POUR COMMANDER: <span style="color: #da2f0c; text-decoration: underline;">695 74 06 43</span></b></span></p>
+<p><span data-mce-fragment="1">L'<b data-mce-fragment="1">Apple iPhone 11 Pro Max</b> est un smartphone avec un appareil photo principal triple de <b data-mce-fragment="1">12+12+12 MP</b> avec flash et un appareil photo secondaire de <b data-mce-fragment="1">12 MP</b> et un écran de <b data-mce-fragment="1">6.5 pouces</b> avec une encoche.<br data-mce-fragment="1"><br data-mce-fragment="1">Apple iPhone 11 Pro Max a une capacité de batterie de <b data-mce-fragment="1">3969mAh</b> et aussi <b data-mce-fragment="1">4Go de RAM</b> + <strong>256</strong><b data-mce-fragment="1">Go </b>de mémoire interne. </span></p>
+<p><span style="text-decoration: underline;"><span color="#404040"><b>CARACTÉRISTIQUES</b></span><strong>:</strong></span></p>
+<ul>
+<li>
+<strong>Marque:</strong><span> </span>Apple</li>
+<li>
+<strong>Modele:<span> </span></strong>iPhone<strong> </strong>11 Pro Max</li>
+<li>
+<strong>Sous état:</strong> <span data-mce-fragment="1">Remis à neuf scellé</span><strong></strong>
+</li>
+<li>
+<strong>ROM:</strong><span> 256 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 4 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6.5</span>
+</li>
+<li><span><strong>Résolution écran</strong>: 1242 x 2688 pixels</span></li>
+<li><span><strong>Type D'écran:</strong> Super Retina XDR OLED</span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> IOS</span>
+</li>
+<li><span><strong>Processeur:</strong> Apple A13 Bionic (7 nm+)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>12 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:<span> </span></strong><span>12+12+12 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash LED</li>
+<li><span><span><strong>Video:</strong> 4K@24/30/60fps</span></span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 3969mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong> Charge rapide 20W, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, LTE</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/7621020680435</id>
+      <title>Or</title>
+      <s:price currency="XAF">209999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7621020680435</id>
+      <title>Vert</title>
+      <s:price currency="XAF">209999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7621020680435</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">209999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7621020680435</id>
+      <title>Noir</title>
+      <s:price currency="XAF">209999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/7620985454835</id>
+    <published>2022-03-26T07:04:09+01:00</published>
+    <updated>2022-03-26T07:04:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-11-128gb-rom-4gb-ram-12-12mp"/>
+    <title>Apple iPhone 11 - 128GB ROM - 4GB RAM - 12+12MP - 3110mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/products/Apple-iPhone-11-Rouge_b4a8cea5-9e92-490b-b469-6b6dcd660144.jpg?v=1648274616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            149999
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><b>APPELER POUR COMMANDER: <span style="color: #da2f0c; text-decoration: underline;">695 74 06 43</span></b></span></p>
+<p><span data-mce-fragment="1">L'<b data-mce-fragment="1">Apple iPhone 11</b> est un smartphone avec un appareil photo principal double de <b data-mce-fragment="1">12+12 MP</b> avec flash et un appareil photo secondaire de <b data-mce-fragment="1">12 MP</b> et un écran de <b data-mce-fragment="1">6.1 pouces</b> avec une encoche.<br data-mce-fragment="1"><br data-mce-fragment="1">Apple iPhone 11 a une capacité de batterie de <b data-mce-fragment="1">3110mAh</b> et aussi <b data-mce-fragment="1">4Go de RAM</b> + <strong>128</strong><b data-mce-fragment="1">Go </b>de mémoire interne. </span></p>
+<p><span style="text-decoration: underline;"><span color="#404040"><b>CARACTÉRISTIQUES</b></span><strong>:</strong></span></p>
+<ul>
+<li>
+<strong>Marque:</strong><span> </span>Apple</li>
+<li>
+<strong>Modele:<span> </span></strong>iPhone<strong> </strong>11</li>
+<li>
+<strong>Sous état:</strong> <span data-mce-fragment="1">Remis à neuf scellé</span>
+</li>
+<li>
+<strong>ROM:</strong><span> 128 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 4 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6.1</span>
+</li>
+<li><span><strong>Résolution écran</strong>: 828 x 1792 pixels</span></li>
+<li><span><strong>Type D'écran:</strong> Liquid Retina IPS LCD</span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> IOS</span>
+</li>
+<li><span><strong>Processeur:</strong> ﻿﻿Apple A13 Bionic (7 nm+)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>12 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:<span> </span></strong><span>12+12 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash LED</li>
+<li><span><span><strong>Video:</strong> 4K@24/30/60fps</span></span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 3110mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong> Charge rapide 18W, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, LTE</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/7620985454835</id>
+      <title>Rouge</title>
+      <s:price currency="XAF">149999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7620985454835</id>
+      <title>Vert</title>
+      <s:price currency="XAF">149999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7620985454835</id>
+      <title>Violet</title>
+      <s:price currency="XAF">149999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7620985454835</id>
+      <title>Jaune</title>
+      <s:price currency="XAF">149999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7620985454835</id>
+      <title>Noir</title>
+      <s:price currency="XAF">149999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7620985454835</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">149999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/7620747198707</id>
+    <published>2022-03-25T20:58:14+01:00</published>
+    <updated>2022-03-25T20:58:14+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-xr-256gb-rom-3gb-ram-12mp-2942mah"/>
+    <title>Apple iPhone XR - 256GB ROM - 3GB RAM - 12MP - 2942mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/products/Apple-iPhone-XR-Blanc_b086db8d-8b05-4cc4-99ff-0cdc2716830c.jpg?v=1652311256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            125000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><b>APPELER POUR COMMANDER: <span style="color: #da2f0c; text-decoration: underline;">695 74 06 43</span></b></span></p>
+<p><span data-mce-fragment="1">L'<b data-mce-fragment="1">Apple iPhone XR</b> est un smartphone avec un appareil photo principal double de <b data-mce-fragment="1">12 MP</b> avec flash et un appareil photo secondaire de <b data-mce-fragment="1">7 MP</b> et un écran de <b data-mce-fragment="1">6.1 pouces</b> avec une encoche.<br data-mce-fragment="1"><br data-mce-fragment="1">Apple iPhone XR a une capacité de batterie de <b data-mce-fragment="1">2942mAh</b> et aussi <b data-mce-fragment="1">3Go de RAM</b> + <strong>256</strong><b data-mce-fragment="1">Go </b>de mémoire interne. </span></p>
+<p><span style="text-decoration: underline;"><span color="#404040"><b>CARACTÉRISTIQUES</b></span><strong>:</strong></span></p>
+<ul>
+<li>
+<strong>Marque:</strong><span> </span>Apple</li>
+<li>
+<strong>Modele:<span> </span></strong>iPhone<strong> </strong>XR</li>
+<li>
+<strong>Sous état:</strong> <span data-mce-fragment="1">Remis à neuf scellé</span>
+</li>
+<li>
+<strong>ROM:</strong><span> 256 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 3 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6.1</span>
+</li>
+<li><span><strong>Résolution écran</strong>: 828 x 1792 pixels</span></li>
+<li><span><strong>Type D'écran:</strong> Liquid Retina IPS LCD</span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> IOS</span>
+</li>
+<li><span><strong>Processeur:</strong> ﻿﻿Apple A12 Bionic (7 nm)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>7 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:<span> </span></strong><span>12 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash LED</li>
+<li><span><span><strong>Video:</strong> 4K@24/30/60fps</span></span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 2942mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong> Charge rapide 15W, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, LTE</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/7620747198707</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">125000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7620747198707</id>
+      <title>Rouge</title>
+      <s:price currency="XAF">125000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7620747198707</id>
+      <title>Bleu</title>
+      <s:price currency="XAF">125000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7620747198707</id>
+      <title>Jaune</title>
+      <s:price currency="XAF">125000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7620747198707</id>
+      <title>Orange</title>
+      <s:price currency="XAF">125000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7620747198707</id>
+      <title>Noir</title>
+      <s:price currency="XAF">125000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/7620736221427</id>
+    <published>2022-03-25T20:51:45+01:00</published>
+    <updated>2022-03-25T20:51:45+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-xr-64gb-rom-3gb-ram-12mp"/>
+    <title>Apple iPhone XR - 128GB ROM - 3GB RAM - 12MP - 2942mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/products/Apple-iPhone-XR-Bleu_7ca82d65-a234-4369-9698-5b46cffa5c24.jpg?v=1701643334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            119900
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><b>APPELER POUR COMMANDER: <span style="color: #da2f0c; text-decoration: underline;">695 74 06 43</span></b></span></p>
+<p><span data-mce-fragment="1">L'<b data-mce-fragment="1">Apple iPhone XR</b> est un smartphone avec un appareil photo principal double de <b data-mce-fragment="1">12 MP</b> avec flash et un appareil photo secondaire de <b data-mce-fragment="1">7 MP</b> et un écran de <b data-mce-fragment="1">6.1 pouces</b> avec une encoche.<br data-mce-fragment="1"><br data-mce-fragment="1">Apple iPhone XR a une capacité de batterie de <b data-mce-fragment="1">2942mAh</b> et aussi <b data-mce-fragment="1">3Go de RAM</b> + <strong>128</strong><b data-mce-fragment="1">Go </b>de mémoire interne. </span></p>
+<p><span style="text-decoration: underline;"><span color="#404040"><b>CARACTÉRISTIQUES</b></span><strong>:</strong></span></p>
+<ul>
+<li>
+<strong>Marque:</strong><span> </span>Apple</li>
+<li>
+<strong>Modele:<span> </span></strong>iPhone<strong> </strong>XR</li>
+<li>
+<strong>Sous état:</strong> <span data-mce-fragment="1">Remis à neuf scellé</span>
+</li>
+<li>
+<strong>ROM:</strong><span> 128 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 3 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6.1</span>
+</li>
+<li><span><strong>Résolution écran</strong>: 828 x 1792 pixels</span></li>
+<li><span><strong>Type D'écran:</strong> Liquid Retina IPS LCD</span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> IOS</span>
+</li>
+<li><span><strong>Processeur:</strong> Apple A12 Bionic (7 nm)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>7 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:<span> </span></strong><span>12 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash LED</li>
+<li><span><span><strong>Video:</strong> 4K@24/30/60fps</span></span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 2942mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong> Charge rapide 15W, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, LTE</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/7620736221427</id>
+      <title>Bleu</title>
+      <s:price currency="XAF">119900</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7620736221427</id>
+      <title>Rouge</title>
+      <s:price currency="XAF">119900</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7620736221427</id>
+      <title>Jaune</title>
+      <s:price currency="XAF">119900</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7620736221427</id>
+      <title>Orange</title>
+      <s:price currency="XAF">119900</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7620736221427</id>
+      <title>Noir</title>
+      <s:price currency="XAF">119900</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7620736221427</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">119900</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/7620291592435</id>
+    <published>2022-03-25T07:00:35+01:00</published>
+    <updated>2022-03-25T07:00:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-x-256gb-rom-3gb-ram-12-12mp"/>
+    <title>Apple iPhone X - 256GB ROM - 3GB RAM - 12+12MP - 2716mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/products/Apple-iPhone-X-Blanc_c7135a5f-af6c-4cab-b785-b1555d959610.jpg?v=1648188003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            99999
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><b>APPELER POUR COMMANDER: <span style="color: #da2f0c; text-decoration: underline;">695 74 06 43</span></b></span></p>
+<p><span data-mce-fragment="1">L'<b data-mce-fragment="1">Apple iPhone X</b> est un smartphone avec un appareil photo principal double de <b data-mce-fragment="1">12+12 MP</b> avec flash et un appareil photo secondaire de <b data-mce-fragment="1">7 MP</b> et un écran de <b data-mce-fragment="1">5.8 pouces</b> avec une encoche.<br data-mce-fragment="1"><br data-mce-fragment="1">Apple iPhone X a une capacité de batterie de <b data-mce-fragment="1">2716mAh</b> et aussi <b data-mce-fragment="1">3Go de RAM</b> + <strong>256</strong><b data-mce-fragment="1">Go </b>de mémoire interne. </span></p>
+<p><span style="text-decoration: underline;"><span color="#404040"><b>CARACTÉRISTIQUES</b></span><strong>:</strong></span></p>
+<ul>
+<li>
+<strong>Marque:</strong> Apple</li>
+<li>
+<strong>Modele: </strong>iPhone<strong> </strong>X</li>
+<li>
+<strong>Sous état:</strong> Remis à neuf scellé</li>
+<li>
+<strong>ROM:</strong><span> 256 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 3 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 5.8</span>
+</li>
+<li><span><strong>Résolution écran</strong>: 1125 x 2436 pixels</span></li>
+<li><span><strong>Type D'écran:</strong> Super Retina OLED,</span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> IOS</span>
+</li>
+<li><span><strong>Processeur:</strong> ﻿﻿Apple A11 Bionic (10 nm)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>7 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:<span> </span></strong><span>12+12 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash LED</li>
+<li><span><span><strong>Video:</strong> 4K@24/30/60fps</span></span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 2716mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong> Charge rapide 15W, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, LTE</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/7620291592435</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">99999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7620291592435</id>
+      <title>Noir</title>
+      <s:price currency="XAF">99999</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/7567014658291</id>
+    <published>2022-02-17T07:02:06+01:00</published>
+    <updated>2022-02-17T07:02:06+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-13-pro-max-128gb-rom-6gb-ram-12-12-12mp-garantie-12-mois"/>
+    <title>Apple iPhone 13 Pro Max - 128GB ROM - 6GB RAM - 12+12+12MP - 4352mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/products/apple-iphone-13-pro-max_2_2f7ba917-a5b2-473d-ac30-9332d39c3daf.jpg?v=1645077792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            329999
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>SMARTPHONE IPHONE 13 PRO MAX 128GO AU MEILLEUR PRIX DU MARCHÉ</h2>
+<p>Obtenez plus de classe, de stockage, de plaisir et de meilleures images avec la triple caméra de l'iPhone 13 Pro Max <strong>128 Go</strong>. Découvrez une technologie puissante dans le monde d’Apple. Prenez de superbes photos aux couleurs vives et aux détails. Profitez de performances fluides avec <strong>6 Go de RAM</strong> et d’un contrôle sécurisé de vos informations personnelles. Entrez dans un nouveau monde d’iPhone avec l’écran immersif Super Retina XDR OLED. Restez informé grâce aux étiquettes de confidentialité des applications sur l'App Store.</p>
+<h2>MEILLEUR ÉCRAN</h2>
+<p><span><strong></strong>L'iPhone 13 Pro Max offre un Écran Super Retina XDR de <strong>6,7 pouces</strong> avec ProMotion OLED pour une immersion totale. Avec une résolution de <strong>2 778 x 1 284 pixels</strong> et une densité de <strong>458 ppp</strong>, il vous plonge au coeur de vos contenus. Son revêtement oléophobe résiste aux traces de doigts et son indice de protection IP68 garantit une étanchéité jusqu'à 6 mètres de profondeur pendant 30 minutes. Grâce à iOS 15 et ProMotion, toute action est d'une fluidité incroyable. De plus, cet iPhone offre une luminosité augmentée de 25% pour une visibilité parfaite même en plein soleil, soulignant la résolution et les couleurs incroyables de l'écran jusqu'aux bords.</span></p>
+<h2>UNE TRIPLE CAMÉRA DE NIVEAU PROFESSIONNEL</h2>
+<p><span>Découvrez l'iPhone 13 Pro Max avec triple caméra <strong>(12MP+12MP+12MP)</strong> pour des photos et vidéos de qualité professionnelle. Passez facilement du téléobjectif au grand-angle et utilisez des outils de montage puissants pour des résultats réalistes.</span></p>
+<h2>DÉCOUVREZ LA VITESSE DU PROCESSEUR IOS A15 ET LA 5G EN UN SEUL TÉLÉPHONE</h2>
+<p>L'Apple iPhone 13 Pro Max est équipé de la dernière puce A15 Bionic, ce qui en fait le smartphone le plus rapide de sa génération. Grâce à la technologie réseau 5G, vous pouvez basculer en toute transparence entre les applications sans vous soucier du décalage. Bénéficiez d'un streaming, de téléchargements et même de jeux haut de gamme plus rapides grâce à la puissance de la 5G.</p>
+<h2>AUTONOMIE PUISSANTE</h2>
+<p>Ce smartphone Apple iPhone 13 Pro Max dispose d'une batterie inédite d'une capacité de <strong>4373 mAh</strong>, vous offrant en moyenne une autonomie d'une journée entière. Profitez d'une utilisation ininterrompue de vos jeux, vidéos et navigation Internet grâce à cette batterie puissante.</p>
+<h3>TOUTES LES CARACTÉRISTIQUES</h3>
+<ul>
+<li>
+<strong>Marque:</strong><span> </span>Apple</li>
+<li>
+<strong>Modele:<span> </span></strong>iPhone 13 Pro Max</li>
+<li>
+<strong>Sous état:</strong> Remis à neuf scellé</li>
+<li>
+<strong>ROM:</strong><span> 128 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 6 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6.7</span>
+</li>
+<li><span><strong>Résolution écran:</strong> 1284 x 2778 pixels</span></li>
+<li><span><strong>Type D'écran: </strong><span>OLED, 120Hz</span></span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> iOS 17</span>
+</li>
+<li><span><strong>Processeur:</strong> Apple A15 Bionic (5 nm)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>12 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:</strong><span><span> </span>12+12+12 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash Double LED</li>
+<li><span><strong>Video:</strong> 4K@24/25/30/60fps</span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 4352mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong><span> </span>Charge rapide, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, 5G</span></li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/7567014658291</id>
+      <title>Noir</title>
+      <s:price currency="XAF">329999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7567014658291</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">329999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7567014658291</id>
+      <title>Bleu</title>
+      <s:price currency="XAF">329999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7567014658291</id>
+      <title>Or</title>
+      <s:price currency="XAF">329999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/7059327385794</id>
+    <published>2021-10-18T07:58:47+01:00</published>
+    <updated>2021-10-18T07:58:47+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-13-pro-max-1tb-rom-6gb-ram-12-12-12mp"/>
+    <title>Apple iPhone 13 Pro Max - 256GB ROM - 6GB RAM - 12+12+12MP - 4352mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/products/apple-iphone-13-pro-max_1e0fe0d3-8f28-4afb-b1af-dba800dac869.jpg?v=1633932952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            349999
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>SMARTPHONE IPHONE 13 PRO MAX 256GO AU MEILLEUR PRIX DU MARCHÉ</h2>
+<p>Obtenez plus de classe, de stockage, de plaisir et de meilleures images avec la triple caméra de l'iPhone 13 Pro Max <strong>256 Go</strong>. Découvrez une technologie puissante dans le monde d’Apple. Prenez de superbes photos aux couleurs vives et aux détails. Profitez de performances fluides avec <strong>6 Go de RAM</strong> et d’un contrôle sécurisé de vos informations personnelles. Entrez dans un nouveau monde d’iPhone avec l’écran immersif Super Retina XDR OLED. Restez informé grâce aux étiquettes de confidentialité des applications sur l'App Store.</p>
+<h2>MEILLEUR ÉCRAN</h2>
+<p><span><strong></strong>L'iPhone 13 Pro Max offre un Écran Super Retina XDR de <strong>6,7 pouces</strong> avec ProMotion OLED pour une immersion totale. Avec une résolution de <strong>2 778 x 1 284 pixels</strong> et une densité de <strong>458 ppp</strong>, il vous plonge au coeur de vos contenus. Son revêtement oléophobe résiste aux traces de doigts et son indice de protection IP68 garantit une étanchéité jusqu'à 6 mètres de profondeur pendant 30 minutes. Grâce à iOS 15 et ProMotion, toute action est d'une fluidité incroyable. De plus, cet iPhone offre une luminosité augmentée de 25% pour une visibilité parfaite même en plein soleil, soulignant la résolution et les couleurs incroyables de l'écran jusqu'aux bords.</span></p>
+<h2>UNE TRIPLE CAMÉRA DE NIVEAU PROFESSIONNEL</h2>
+<p><span>Découvrez l'iPhone 13 Pro Max avec triple caméra <strong>(12MP+12MP+12MP)</strong> pour des photos et vidéos de qualité professionnelle. Passez facilement du téléobjectif au grand-angle et utilisez des outils de montage puissants pour des résultats réalistes.</span></p>
+<h2>DÉCOUVREZ LA VITESSE DU PROCESSEUR IOS A15 ET LA 5G EN UN SEUL TÉLÉPHONE</h2>
+<p>L'Apple iPhone 13 Pro Max est équipé de la dernière puce A15 Bionic, ce qui en fait le smartphone le plus rapide de sa génération. Grâce à la technologie réseau 5G, vous pouvez basculer en toute transparence entre les applications sans vous soucier du décalage. Bénéficiez d'un streaming, de téléchargements et même de jeux haut de gamme plus rapides grâce à la puissance de la 5G.</p>
+<h2>AUTONOMIE PUISSANTE</h2>
+<p>Ce smartphone Apple iPhone 13 Pro Max dispose d'une batterie inédite d'une capacité de <strong>4373 mAh</strong>, vous offrant en moyenne une autonomie d'une journée entière. Profitez d'une utilisation ininterrompue de vos jeux, vidéos et navigation Internet grâce à cette batterie puissante.</p>
+<h3>TOUTES LES CARACTÉRISTIQUES</h3>
+<ul>
+<li>
+<strong>Marque:</strong><span> </span>Apple</li>
+<li>
+<strong>Modele:<span> </span></strong>iPhone 13 Pro Max</li>
+<li>
+<strong>Sous état:</strong> Remis à neuf scellé</li>
+<li>
+<strong>ROM:</strong><span> 256 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 6 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6.7</span>
+</li>
+<li><span><strong>Résolution écran:</strong> 1284 x 2778 pixels</span></li>
+<li><span><strong>Type D'écran: </strong><span>OLED, 120Hz</span></span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> iOS 17</span>
+</li>
+<li><span><strong>Processeur:</strong> Apple A15 Bionic (5 nm)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>12 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:</strong><span><span> </span>12+12+12 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash Double LED</li>
+<li><span><strong>Video:</strong> 4K@24/25/30/60fps</span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 4352mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong><span> </span>Charge rapide, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, 5G</span></li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/7059327385794</id>
+      <title>Bleu</title>
+      <s:price currency="XAF">349999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7059327385794</id>
+      <title>Noir</title>
+      <s:price currency="XAF">349999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7059327385794</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">349999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7059327385794</id>
+      <title>Or</title>
+      <s:price currency="XAF">349999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/7059309068482</id>
+    <published>2021-10-11T07:28:29+01:00</published>
+    <updated>2021-10-11T07:28:29+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-13-pro-max-512gb-rom-6gb-ram-12-12-12mp-1"/>
+    <title>Apple iPhone 13 Pro Max - 512GB ROM - 6GB RAM - 12+12+12MP - 4352mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/products/apple-iphone-13-pro-max_4_581b6303-e5a2-44ae-92ea-579ab96f9f5c.jpg?v=1712297108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            365000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>SMARTPHONE IPHONE 13 PRO MAX 512GO AU MEILLEUR PRIX DU MARCHÉ</h2>
+<p>Obtenez plus de classe, de stockage, de plaisir et de meilleures images avec la triple caméra de l'iPhone 13 Pro Max <strong>512 Go</strong>. Découvrez une technologie puissante dans le monde d’Apple. Prenez de superbes photos aux couleurs vives et aux détails. Profitez de performances fluides avec <strong>6 Go de RAM</strong> et d’un contrôle sécurisé de vos informations personnelles. Entrez dans un nouveau monde d’iPhone avec l’écran immersif Super Retina XDR OLED. Restez informé grâce aux étiquettes de confidentialité des applications sur l'App Store.</p>
+<h2>MEILLEUR ÉCRAN</h2>
+<p><span><strong></strong>L'iPhone 13 Pro Max offre un Écran Super Retina XDR de <strong>6,7 pouces</strong> avec ProMotion OLED pour une immersion totale. Avec une résolution de <strong>2 778 x 1 284 pixels</strong> et une densité de <strong>458 ppp</strong>, il vous plonge au coeur de vos contenus. Son revêtement oléophobe résiste aux traces de doigts et son indice de protection IP68 garantit une étanchéité jusqu'à 6 mètres de profondeur pendant 30 minutes. Grâce à iOS 15 et ProMotion, toute action est d'une fluidité incroyable. De plus, cet iPhone offre une luminosité augmentée de 25% pour une visibilité parfaite même en plein soleil, soulignant la résolution et les couleurs incroyables de l'écran jusqu'aux bords.</span></p>
+<h2>UNE TRIPLE CAMÉRA DE NIVEAU PROFESSIONNEL</h2>
+<p><span>Découvrez l'iPhone 13 Pro Max avec triple caméra <strong>(12MP+12MP+12MP)</strong> pour des photos et vidéos de qualité professionnelle. Passez facilement du téléobjectif au grand-angle et utilisez des outils de montage puissants pour des résultats réalistes.</span></p>
+<h2>DÉCOUVREZ LA VITESSE DU PROCESSEUR IOS A15 ET LA 5G EN UN SEUL TÉLÉPHONE</h2>
+<p>L'Apple iPhone 13 Pro Max est équipé de la dernière puce A15 Bionic, ce qui en fait le smartphone le plus rapide de sa génération. Grâce à la technologie réseau 5G, vous pouvez basculer en toute transparence entre les applications sans vous soucier du décalage. Bénéficiez d'un streaming, de téléchargements et même de jeux haut de gamme plus rapides grâce à la puissance de la 5G.</p>
+<h2>AUTONOMIE PUISSANTE</h2>
+<p>Ce smartphone Apple iPhone 13 Pro Max dispose d'une batterie inédite d'une capacité de <strong>4373 mAh</strong>, vous offrant en moyenne une autonomie d'une journée entière. Profitez d'une utilisation ininterrompue de vos jeux, vidéos et navigation Internet grâce à cette batterie puissante.</p>
+<h3>TOUTES LES CARACTÉRISTIQUES</h3>
+<ul>
+<li>
+<strong>Marque:</strong><span> </span>Apple</li>
+<li>
+<strong>Modele:<span> </span></strong>iPhone 13 Pro Max</li>
+<li>
+<strong>Sous état:</strong> Remis à neuf scellé</li>
+<li>
+<strong>ROM:</strong><span> 512 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 6 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6.7</span>
+</li>
+<li><span><strong>Résolution écran:</strong> 1284 x 2778 pixels</span></li>
+<li><span><strong>Type D'écran: </strong><span>OLED, 120Hz</span></span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> iOS 17</span>
+</li>
+<li><span><strong>Processeur:</strong> Apple A15 Bionic (5 nm)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>12 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:</strong><span><span> </span>12+12+12 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash Double LED</li>
+<li><span><strong>Video:</strong> 4K@24/25/30/60fps</span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 4352mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong><span> </span>Charge rapide, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, 5G</span></li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/7059309068482</id>
+      <title>Or</title>
+      <s:price currency="XAF">365000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7059309068482</id>
+      <title>Bleu</title>
+      <s:price currency="XAF">365000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7059309068482</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">365000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7059309068482</id>
+      <title>Noir</title>
+      <s:price currency="XAF">365000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/7052771623106</id>
+    <published>2021-10-08T10:22:02+01:00</published>
+    <updated>2021-10-08T10:22:02+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-13-256gb-rom-4gb-ram-12-12mp"/>
+    <title>Apple iPhone 13 - 256GB ROM - 4GB RAM - 12+12MP - 3240mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/products/apple_iphone_13_2_90ac9f24-704b-4c33-a799-5a380437f4c2.jpg?v=1633906949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            245000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Profitez du meilleur des deux mondes avec l'iPhone 13.</h2>
+<p>Vous pouvez gérer votre vie professionnelle et personnelle sans effort. Avec son grand écran Super Retina XDR OLED de <strong>6,1 pouces</strong> et un appareil photo de <strong>12 MP</strong> à l'avant et à l'arrière, vous obtiendrez des selfies et des appels vidéo de qualité supérieure.</p>
+<h2>Découvrez le nouveau iPhone 13 avec un système d'exploitation IOS 15 pour des performances modernes.</h2>
+<p>Grâce à ses <strong>4Go de RAM</strong> et sa mémoire de stockage de <strong>256Go</strong>, profitez d'une exécution rapide de vos applications et de suffisamment d'espace pour conserver vos documents, photos et vidéos. Remis à neuf et scellé pour une expérience de qualité.</p>
+<h2>Découvrez l'incroyable écran OLED de l'iPhone 13, avec une luminosité qui égale le modèle précédent.</h2>
+<p>Avec des performances supérieures et une consommation d'énergie optimisée, profitez d'une expérience visuelle éblouissante en HDR, avec une luminosité atteignant 1200 nits. Ne manquez plus aucun détail avec ce Remis à Neuf Scellé.</p>
+<h2>Profitez d'images d'une qualité exceptionnelle avec l'iPhone 13.</h2>
+<p>Les objectifs photos améliorés sont dotés d'un capteur plus large pour des images encore plus claires en basse lumière. Grâce à la puce A15 Bionic, le traitement des images est amélioré pour des performances optimales. Et avec <strong>256Go</strong> de stockage, emportez toutes vos photos avec vous !</p>
+<h2>Avec l'Apple iPhone 13, restez connecté toute la journée grâce à sa batterie longue durée de 3240mAh.</h2>
+<p>Profitez d'une utilisation sans souci et communiquez avec vos amis pendant des heures. Il est disponible en ligne chez kmerphone.com. Commandez maintenant et faites-vous livrer partout au Cameroun !</p>
+<h3>TOUTES LES CARACTÉRISTIQUES</h3>
+<ul>
+<li>
+<strong>Marque:</strong><span> </span>Apple</li>
+<li>
+<strong>Modele:<span> </span></strong>iPhone 13</li>
+<li>
+<strong>Sous état:</strong> Remis à neuf scellé</li>
+<li>
+<strong>ROM:</strong><span> 256 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 4 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6.1</span>
+</li>
+<li><span><strong>Résolution écran:</strong> 1170 x 2532 pixels</span></li>
+<li><span><strong>Type D'écran:</strong>Super Retina XDR OLED</span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> iOS 15</span>
+</li>
+<li><span><strong>Processeur:</strong> Apple A15 Bionic (5 nm)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>12 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:</strong><span><span> </span>12+12 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash Double LED</li>
+<li><span><strong>Video:</strong> 4K@24/30/60fps</span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 3240mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong><span> </span>Charge rapide, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, 5G</span></li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/7052771623106</id>
+      <title>Noir</title>
+      <s:price currency="XAF">245000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7052771623106</id>
+      <title>Bleu</title>
+      <s:price currency="XAF">245000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7052771623106</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">245000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7052771623106</id>
+      <title>Rouge</title>
+      <s:price currency="XAF">245000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7052771623106</id>
+      <title>Rose</title>
+      <s:price currency="XAF">245000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/7052768706754</id>
+    <published>2021-10-08T10:20:34+01:00</published>
+    <updated>2021-10-08T10:20:34+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-13-128gb-rom-4gb-ram-12-12mp"/>
+    <title>Apple iPhone 13 - 128GB ROM - 4GB RAM - 12+12MP - 3240mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/products/apple_iphone_13.jpg?v=1633904757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            215000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Profitez du meilleur des deux mondes avec l'iPhone 13.</h2>
+<p>Vous pouvez gérer votre vie professionnelle et personnelle sans effort. Avec son grand écran Super Retina XDR OLED de <strong>6,1 pouces</strong> et un appareil photo de <strong>12 MP</strong> à l'avant et à l'arrière, vous obtiendrez des selfies et des appels vidéo de qualité supérieure.</p>
+<h2>Découvrez le nouveau iPhone 13 avec un système d'exploitation IOS 15 pour des performances modernes.</h2>
+<p>Grâce à ses 4Go de RAM et sa mémoire de stockage de <strong>128Go</strong>, profitez d'une exécution rapide de vos applications et de suffisamment d'espace pour conserver vos documents, photos et vidéos. Remis à neuf et scellé pour une expérience de qualité.</p>
+<h2>Découvrez l'incroyable écran OLED de l'iPhone 13, avec une luminosité qui égale le modèle précédent.</h2>
+<p>Avec des performances supérieures et une consommation d'énergie optimisée, profitez d'une expérience visuelle éblouissante en HDR, avec une luminosité atteignant 1200 nits. Ne manquez plus aucun détail avec ce Remis à Neuf Scellé.</p>
+<h2>Profitez d'images d'une qualité exceptionnelle avec l'iPhone 13.</h2>
+<p>Les objectifs photos améliorés sont dotés d'un capteur plus large pour des images encore plus claires en basse lumière. Grâce à la puce A15 Bionic, le traitement des images est amélioré pour des performances optimales. Et avec 128Go de stockage, emportez toutes vos photos avec vous !</p>
+<h2>Avec l'Apple iPhone 13, restez connecté toute la journée grâce à sa batterie longue durée de 3240mAh.</h2>
+<p>Profitez d'une utilisation sans souci et communiquez avec vos amis pendant des heures. Il est disponible en ligne chez kmerphone.com. Commandez maintenant et faites-vous livrer partout au Cameroun !</p>
+<h3>TOUTES LES CARACTÉRISTIQUES</h3>
+<ul>
+<li>
+<strong>Marque:</strong><span> </span>Apple</li>
+<li>
+<strong>Modele:<span> </span></strong>iPhone 13</li>
+<li>
+<strong>Sous état:</strong> Remis à neuf scellé</li>
+<li>
+<strong>ROM:</strong><span> 128 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 4 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6.1</span>
+</li>
+<li><span><strong>Résolution écran:</strong> 1170 x 2532 pixels</span></li>
+<li><span><strong>Type D'écran:</strong>Super Retina XDR OLED</span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> iOS 15</span>
+</li>
+<li><span><strong>Processeur:</strong> Apple A15 Bionic (5 nm)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>12 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:</strong><span><span> </span>12+12 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash Double LED</li>
+<li><span><strong>Video:</strong> 4K@24/30/60fps</span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 3240mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong><span> </span>Charge rapide, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, 5G</span></li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/7052768706754</id>
+      <title>Bleu</title>
+      <s:price currency="XAF">215000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7052768706754</id>
+      <title>Noir</title>
+      <s:price currency="XAF">215000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7052768706754</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">215000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7052768706754</id>
+      <title>Rouge</title>
+      <s:price currency="XAF">215000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7052768706754</id>
+      <title>Rose</title>
+      <s:price currency="XAF">215000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/7016467562690</id>
+    <published>2021-09-26T13:17:50+01:00</published>
+    <updated>2021-09-26T13:17:50+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-12-pro-max-256gb-rom-6gb-ram-12-12-12mp"/>
+    <title>Apple iPhone 12 Pro Max - 256GB ROM - 6GB RAM - 12+12+12MP - 3687mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/products/Sanstitre-2021-01-24T204108.297_1_8bf8da09-dfbe-4ccd-b5da-4838d180a935.jpg?v=1688993526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            285000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Avec l'iPhone 12 Pro Max, vous obtenez un smartphone au sommet de la technologie à un prix incroyable sur Kmerphone.</h2>
+<p>Un écran Super Retina XDR OLED de <strong>6,7 pouces</strong> avec HDR10, Apple A14 Bionic et un processeur Hexa-core puissant avec 6Go de RAM. Prenez des photos incroyables avec les trois capteurs de <strong>12Mp</strong> et le scanner LiDAR 3D. Avec son design élégant et compact, cet iPhone est le choix parfait pour tout amateur de technologie!</p>
+<h2>L'iPhone 12 Pro Max est un smartphone qui incarne le luxe et la qualité.</h2>
+<p>Avec son design élégant et ses matériaux haut de gamme, il offre une sensation spéciale entre vos mains. Ses côtés carrés rendent son utilisation plus facile et son appareil photo <strong>12+12+12MP</strong> capture des images exceptionnelles. Ressentez le plaisir d'utiliser cet iPhone remis à neuf scellé.</p>
+<h2>Transformez vos photos en véritables œuvres d'art avec l'iPhone 12 Pro Max.</h2>
+<p>Grâce aux améliorations du mode Portrait, vos clichés seront encore plus époustouflants. Finies les frontières floues, les feuilles, les cheveux et la fourrure seront délicatement segmentés pour des images impeccables.</p>
+<h3>TOUTES LES CARACTÉRISTIQUES</h3>
+<ul>
+<li>
+<strong>Marque:</strong><span> </span>Apple</li>
+<li>
+<strong>Modele:<span> </span></strong>iPhone 12 Pro Max</li>
+<li>
+<strong>Sous état:</strong> <span data-mce-fragment="1">Remis à neuf scellé</span>
+</li>
+<li>
+<strong>ROM:</strong><span> 256 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 6 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6.7</span>
+</li>
+<li><span><strong>Résolution écran</strong>: 1284 x 2778 pixels</span></li>
+<li><span><strong>Type D'écran:</strong><span> </span>Super Retina XDR OLED</span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> IOS</span>
+</li>
+<li><span><strong>Processeur:</strong> ﻿﻿Apple A14 Bionic (5 nm)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>12 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:<span> </span></strong><span>12+12+12 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash LED</li>
+<li><span><span><strong>Video:</strong> 4K@24/30/60fps</span></span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 3687mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong><span> </span>Charge rapide 15W, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, LTE</span></li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/7016467562690</id>
+      <title>Or</title>
+      <s:price currency="XAF">285000</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7016467562690</id>
+      <title>Bleu</title>
+      <s:price currency="XAF">285000</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7016467562690</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">285000</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7016467562690</id>
+      <title>Noir</title>
+      <s:price currency="XAF">285000</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/7016453570754</id>
+    <published>2021-09-26T13:12:10+01:00</published>
+    <updated>2021-09-26T13:12:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-12-128gb-rom-4gb-ram-12-12mp"/>
+    <title>Apple iPhone 12 - 128GB ROM - 4GB RAM - 12+12MP - 2815mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/products/Sanstitre-2021-01-24T201525.338_1_02feb522-2ff0-4e8e-bf4e-739478000c6e.jpg?v=1632658022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            169999
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Offrez-vous la puissance ultime avec l’iPhone 12 !</h2>
+<p>Doté de <strong>4Go de RAM</strong> et d’une capacité de stockage de <strong>128Go</strong>, ce smartphone est le partenaire idéal pour les selfies, les réseaux sociaux et les jeux. Avec sa caméra avant de <strong></strong>12MP et deux caméras arrière de <strong>12MP</strong>, capturer vos meilleurs moments n’a jamais été aussi facile. Et avec sa résistance à l’eau, plus rien ne pourra vous arrêter. Remis à neuf et scellé, c’est le moment de passer à la vitesse supérieure avec l’iPhone 12 !</p>
+<h2>Capturer tous vos moments avec précision et clarté grâce au système de double caméra de l'Apple iPhone 12.</h2>
+<p>Doté d'un objectif ultra grand angle et d'un mode nuit, rien ne vous échappera, même dans l'obscurité. Les photos et vidéos en ressortiront incroyablement belles, des souvenirs dignes d'un professionnel. Remis à neuf et scellé pour une expérience comme neuve.</p>
+<h2>Découvrez la vitesse et la puissance de l'iPhone 12 grâce à son processeur iOS A14.</h2>
+<p>Avec la 5G, surfez sans interruption et profitez d'un réseau ultra-rapide pour regarder des films en streaming haute qualité et faire des appels vidéo en HD. Disponible en remise à neuf à un prix imbattable sur notre site www.kmerphone.com.<span style="font-size: 0.875rem;"> </span></p>
+<h3>TOUTES LES CARACTÉRISTIQUES</h3>
+<ul>
+<li>
+<strong>Marque:</strong><span> </span>Apple</li>
+<li>
+<strong>Modele:<span> </span></strong>iPhone<strong> </strong>12</li>
+<li>
+<strong>Sous état:</strong> Remis à neuf scellé</li>
+<li>
+<strong>ROM:</strong><span> 128 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 4 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6.1</span>
+</li>
+<li><span><strong>Résolution écran</strong>: 1170 x 2532 pixels</span></li>
+<li><span><strong>Type D'écran:</strong> Super Retina XDR OLED</span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> IOS</span>
+</li>
+<li><span><strong>Processeur:</strong> Apple A14 Bionic (5 nm)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>12 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:<span> </span></strong><span>12+12 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash double LED</li>
+<li><span><strong>Video:</strong> 4K@24/30/60fps</span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 2815mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong> Charge rapide 15W, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, LTE</span></li>
+</ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/7016453570754</id>
+      <title>Bleu</title>
+      <s:price currency="XAF">169999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7016453570754</id>
+      <title>Rouge</title>
+      <s:price currency="XAF">169999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7016453570754</id>
+      <title>Noir</title>
+      <s:price currency="XAF">169999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/7016453570754</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">169999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/6196125204674</id>
+    <published>2021-01-24T20:56:38+01:00</published>
+    <updated>2021-01-24T20:56:38+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-12-pro-max-128-256-512gb-rom-6gb-ram-12-12-12mp"/>
+    <title>Apple iPhone 12 Pro Max - 128GB ROM - 6GB RAM - 12+12+12MP - 3687mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/products/Sanstitre-2021-01-24T203957.746_1_056231d3-666a-41b0-b320-50ca50c6ae5a.jpg?v=1611518074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            269999
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Avec l'iPhone 12 Pro Max, vous obtenez un smartphone au sommet de la technologie à un prix incroyable sur Kmerphone.</h2>
+<p>Un écran Super Retina XDR OLED de <strong>6,7 pouces</strong> avec HDR10, Apple A14 Bionic et un processeur Hexa-core puissant avec 6Go de RAM. Prenez des photos incroyables avec les trois capteurs de <strong>12Mp</strong> et le scanner LiDAR 3D. Avec son design élégant et compact, cet iPhone est le choix parfait pour tout amateur de technologie!</p>
+<h2>L'iPhone 12 Pro Max est un smartphone qui incarne le luxe et la qualité.</h2>
+<p>Avec son design élégant et ses matériaux haut de gamme, il offre une sensation spéciale entre vos mains. Ses côtés carrés rendent son utilisation plus facile et son appareil photo <strong>12+12+12MP</strong> capture des images exceptionnelles. Ressentez le plaisir d'utiliser cet iPhone remis à neuf scellé.</p>
+<h2>Transformez vos photos en véritables œuvres d'art avec l'iPhone 12 Pro Max.</h2>
+<p>Grâce aux améliorations du mode Portrait, vos clichés seront encore plus époustouflants. Finies les frontières floues, les feuilles, les cheveux et la fourrure seront délicatement segmentés pour des images impeccables.</p>
+<h3>TOUTES LES CARACTÉRISTIQUES</h3>
+<ul>
+<li>
+<strong>Marque:</strong><span> </span>Apple</li>
+<li>
+<strong>Modele:<span> </span></strong>iPhone 12 Pro Max</li>
+<li>
+<strong>Sous état:</strong> <span data-mce-fragment="1">Remis à neuf scellé</span>
+</li>
+<li>
+<strong>ROM:</strong><span> 128 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 6 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6.7</span>
+</li>
+<li><span><strong>Résolution écran</strong>: 1284 x 2778 pixels</span></li>
+<li><span><strong>Type D'écran:</strong><span> </span>Super Retina XDR OLED</span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> IOS</span>
+</li>
+<li><span><strong>Processeur:</strong> ﻿﻿Apple A14 Bionic (5 nm)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>12 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:<span> </span></strong><span>12+12+12 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash LED</li>
+<li><span><span><strong>Video:</strong> 4K@24/30/60fps</span></span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 3687mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong><span> </span>Charge rapide 15W, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, LTE</span></li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/6196125204674</id>
+      <title>Bleu</title>
+      <s:price currency="XAF">269999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/6196125204674</id>
+      <title>Or</title>
+      <s:price currency="XAF">269999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/6196125204674</id>
+      <title>Noir</title>
+      <s:price currency="XAF">269999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/6196125204674</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">269999</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kmerphone.com/products/4550839271511</id>
+    <published>2020-06-14T20:50:46+01:00</published>
+    <updated>2020-06-14T20:50:46+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://kmerphone.com/products/apple-iphone-xr-64-256gb-rom-3gb-ram-12mp"/>
+    <title>Apple iPhone XR - 64GB ROM - 3GB RAM - 12MP - 2942mAh - Scellé Original Remis à Neuf</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0275/5654/4599/products/Apple-iPhone-XR-Rouge.jpg?v=1701643305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Apple<br>
+        <strong>Type : </strong>Smartphone<br>
+        <strong>Prix : </strong>
+            109900
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><b>APPELER POUR COMMANDER: <span style="color: #da2f0c; text-decoration: underline;">695 74 06 43</span></b></span></p>
+<p><span data-mce-fragment="1">L'<b data-mce-fragment="1">Apple iPhone XR</b> est un smartphone avec un appareil photo principal double de <b data-mce-fragment="1">12 MP</b> avec flash et un appareil photo secondaire de <b data-mce-fragment="1">7 MP</b> et un écran de <b data-mce-fragment="1">6.1 pouces</b> avec une encoche.<br data-mce-fragment="1"><br data-mce-fragment="1">Apple iPhone XR a une capacité de batterie de <b data-mce-fragment="1">2942mAh</b> et aussi <b data-mce-fragment="1">3Go de RAM</b> + <strong>64</strong><b data-mce-fragment="1">Go </b>de mémoire interne. </span></p>
+<p><span style="text-decoration: underline;"><span color="#404040"><b>CARACTÉRISTIQUES</b></span><strong>:</strong></span></p>
+<ul>
+<li>
+<strong>Marque:</strong><span> </span>Apple</li>
+<li>
+<strong>Modele:<span> </span></strong>iPhone<strong> </strong>XR</li>
+<li>
+<strong>Sous état:</strong> <span data-mce-fragment="1">Remis à neuf scellé</span>
+</li>
+<li>
+<strong>ROM:</strong><span> 64 Go</span>
+</li>
+<li>
+<strong>RAM:</strong><span> 3 Go</span>
+</li>
+<li>
+<strong>Carte SIM:</strong><span> 1 SIM Carte</span>
+</li>
+<li>
+<strong>Taille D'écran:</strong><span> 6.1</span>
+</li>
+<li><span><strong>Résolution écran</strong>: 828 x 1792 pixels</span></li>
+<li><span><strong>Type D'écran:</strong> Liquid Retina IPS LCD</span></li>
+<li>
+<strong>Système D'exploitation:</strong><span> IOS</span>
+</li>
+<li><span><strong>Processeur:</strong> ﻿﻿Apple A12 Bionic (7 nm)</span></li>
+<li>
+<strong>Caméra Frontale: </strong><span>7 MP</span>
+</li>
+<li>
+<strong>Caméra Principale:<span> </span></strong><span>12 MP</span>
+</li>
+<li>
+<strong>Flash arrière:</strong><strong> </strong>Flash LED</li>
+<li><span><span><strong>Video:</strong> 4K@24/30/60fps</span></span></li>
+<li><span><strong>Connectivité:</strong> Wifi, BT, GPS</span></li>
+<li>
+<strong>Capteur:</strong><span> Face ID</span>
+</li>
+<li>
+<strong>Batterie (mAh):</strong><span> 2942mAh, non-amovible</span>
+</li>
+<li><span><strong>Mise en charge:</strong> Charge rapide 15W, 50% en 30min</span></li>
+<li><span><strong>Réseau</strong>: 2G, 3G, 4G, LTE</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kmerphone.com/products/4550839271511</id>
+      <title>Rouge</title>
+      <s:price currency="XAF">109900</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/4550839271511</id>
+      <title>Blanc</title>
+      <s:price currency="XAF">109900</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/4550839271511</id>
+      <title>Bleu</title>
+      <s:price currency="XAF">109900</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/4550839271511</id>
+      <title>Noir</title>
+      <s:price currency="XAF">109900</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/4550839271511</id>
+      <title>Jaune</title>
+      <s:price currency="XAF">109900</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kmerphone.com/products/4550839271511</id>
+      <title>Orange</title>
+      <s:price currency="XAF">109900</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
